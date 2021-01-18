@@ -1,6 +1,6 @@
 **Apa itu Design Patterns?**
 
-- Design pattern adalah solusi umum dari permasalahan - permasalahan yg sering
+- Design pattern adalah solusi umum (best practice)  dari permasalahan - permasalahan yg sering
   terjadi dalam membuat software.
   
 - Design patternya hanyalah template panduan cara menyelesaikan permasalahan.
